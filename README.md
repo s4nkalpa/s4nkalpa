@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning artificial intelligence and data science.
 - 💞️ I’m looking to collaborate on machine learning and deep learning projects.
-- 📫 How to reach me : sankalpakulathunga123@gmail.com
+- 📫 How to reach me : sankalpakulathunga.sk.2004@gmail.com
 
 <!---
 s4nkalpa/s4nkalpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
